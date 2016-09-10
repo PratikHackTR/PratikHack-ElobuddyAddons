@@ -1,0 +1,9 @@
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\EzGame-Luci\bin\Release\EzGame-Lucian.exe.config
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\EzGame-Luci\bin\Release\EzGame-Lucian.exe
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\EzGame-Luci\bin\Release\EzGame-Lucian.pdb
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\EzGame-Luci\bin\Release\Newtonsoft.Json.dll
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\EzGame-Luci\obj\Debug\EzGame-Luci.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\EzGame-Luci\obj\Debug\GuTenTak_Lucian.Properties.Resources.resources
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\EzGame-Luci\obj\Debug\EzGame-Luci.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\EzGame-Luci\obj\Debug\EzGame-Lucian.exe
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\EzGame-Luci\obj\Debug\EzGame-Lucian.pdb
