@@ -1,0 +1,11 @@
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Vayne\bin\Release\WinGame-Vayne.exe.config
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Vayne\bin\Release\WinGame-Vayne.exe
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Vayne\bin\Release\WinGame-Vayne.pdb
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Vayne\bin\Release\EloBuddy.dll
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Vayne\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Vayne\bin\Release\EloBuddy.SDK.dll
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Vayne\bin\Release\SharpDX.dll
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Vayne\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Vayne\obj\Release\WinGame-Vayne.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Vayne\obj\Release\WinGame-Vayne.exe
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Vayne\obj\Release\WinGame-Vayne.pdb
