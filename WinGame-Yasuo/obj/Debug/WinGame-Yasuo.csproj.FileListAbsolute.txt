@@ -1,0 +1,11 @@
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Yasuo\bin\Debug\WinGame-Yasuo.exe.config
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Yasuo\bin\Debug\WinGame-Yasuo.exe
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Yasuo\bin\Debug\WinGame-Yasuo.pdb
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Yasuo\bin\Debug\EloBuddy.dll
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Yasuo\bin\Debug\EloBuddy.SDK.dll
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Yasuo\bin\Debug\SharpDX.dll
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Yasuo\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Yasuo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Yasuo\obj\Debug\WinGame-Yasuo.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Yasuo\obj\Debug\WinGame-Yasuo.exe
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\WinGame-Yasuo\obj\Debug\WinGame-Yasuo.pdb
