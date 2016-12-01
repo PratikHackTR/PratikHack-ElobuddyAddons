@@ -1,0 +1,3 @@
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\EzGame-KogMaw\bin\Release\GuTenTak_KogMaw.exe.config
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\EzGame-KogMaw\obj\Debug\GuTenTak_KogMaw.pdb
+C:\Users\a\Desktop\Kodlamalar\EloBuddy Klasör\EzGame-KogMaw\bin\Release\EzGame_KogMaw.exe.config
