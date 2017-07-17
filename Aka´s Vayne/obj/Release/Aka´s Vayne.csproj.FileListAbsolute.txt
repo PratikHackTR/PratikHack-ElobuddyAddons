@@ -1,0 +1,11 @@
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Vayne\bin\Release\Auto Carry Vayne.exe.config
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Vayne\bin\Release\Auto Carry Vayne.exe
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Vayne\bin\Release\Auto Carry Vayne.pdb
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Vayne\bin\Release\EloBuddy.dll
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Vayne\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Vayne\bin\Release\EloBuddy.SDK.dll
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Vayne\bin\Release\SharpDX.dll
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Vayne\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Vayne\obj\Release\Auto Carry Vayne.exe
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Vayne\obj\Release\Auto Carry Vayne.pdb
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Vayne\obj\Release\Aka´s Vayne.csprojResolveAssemblyReference.cache

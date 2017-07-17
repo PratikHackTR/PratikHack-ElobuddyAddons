@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\P1 Katarina\PH Katarina\bin\Debug\PH Katarina.exe.config
+C:\Users\a\Desktop\P1 Katarina\PH Katarina\obj\Debug\PH Katarina.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\P1 Katarina\PH Katarina\bin\Debug\PH Katarina.exe
+C:\Users\a\Desktop\P1 Katarina\PH Katarina\bin\Debug\PH Katarina.pdb
+C:\Users\a\Desktop\P1 Katarina\PH Katarina\bin\Debug\EloBuddy.dll
+C:\Users\a\Desktop\P1 Katarina\PH Katarina\bin\Debug\EloBuddy.SDK.dll
+C:\Users\a\Desktop\P1 Katarina\PH Katarina\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\a\Desktop\P1 Katarina\PH Katarina\bin\Debug\SharpDX.dll
+C:\Users\a\Desktop\P1 Katarina\PH Katarina\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a\Desktop\P1 Katarina\PH Katarina\obj\Debug\PH Katarina.exe
+C:\Users\a\Desktop\P1 Katarina\PH Katarina\obj\Debug\PH Katarina.pdb
+C:\Users\a\Desktop\EB scriptlerim\PH Katarina\bin\Debug\PH Katarina.exe.config
+C:\Users\a\Desktop\EB scriptlerim\PH Katarina\obj\Debug\PH Katarina.exe
+C:\Users\a\Desktop\EB scriptlerim\PH Katarina\obj\Debug\PH Katarina.pdb

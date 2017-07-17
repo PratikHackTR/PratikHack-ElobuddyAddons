@@ -1,0 +1,11 @@
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Yasuo\bin\Release\Aka´s Yasuo.exe.config
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Yasuo\bin\Release\Aka´s Yasuo.exe
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Yasuo\bin\Release\Aka´s Yasuo.pdb
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Yasuo\bin\Release\EloBuddy.dll
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Yasuo\bin\Release\EloBuddy.SDK.dll
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Yasuo\bin\Release\SharpDX.dll
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Yasuo\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Yasuo\bin\Release\Newtonsoft.Json.dll
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Yasuo\obj\Release\Aka´s Yasuo.exe
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Yasuo\obj\Release\Aka´s Yasuo.pdb
+C:\Users\a\AppData\Roaming\EloBuddy\Repositories\AAA11495\Aka´s Yasuo\obj\Release\Aka´s Yasuo.csprojResolveAssemblyReference.cache

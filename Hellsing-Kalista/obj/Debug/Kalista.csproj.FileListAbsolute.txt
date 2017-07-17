@@ -1,0 +1,2 @@
+C:\Users\a\Desktop\EB scriptlerim\Hellsing-Kalista\bin\Debug\Kalista.exe.config
+C:\Users\a\Desktop\EB scriptlerim\Hellsing-Kalista\bin\Debug\PratikHackKalista.exe.config
