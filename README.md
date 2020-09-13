@@ -1,2 +1,2 @@
 # PratikHack-ElobuddyAddons
-PratikHack ; Burda EloBuddy programı için kodladığım Scripts'leri (Addonsları) ücretsiz olarak paylaşacağım.
+PratikHack ; Burda EloBuddy programı için bulunan Scripts'lerin (Addonsların) yeri
